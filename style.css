@@ -39,7 +39,7 @@ section{
     background-repeat: no-repeat;
     background-position: right;
 }
-.full{
+.box{
     box-shadow: 10px 10px 40px gray;
     
     border-radius: 10px;
